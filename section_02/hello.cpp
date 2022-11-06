@@ -14,7 +14,7 @@ int main(int argc, char **argv)
     // }
     // cout << endl;
 
-    printf("Hellow world\n");
+    printf("Hellow world\nHellow world\nHellow world\nHellow world\nHellow world\nHellow world\nAnd the C++ extension!");
     return 0;
 
 }
