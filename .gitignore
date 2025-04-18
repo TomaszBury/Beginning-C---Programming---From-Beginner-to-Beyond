@@ -6,7 +6,7 @@
 *.lo
 *.o
 *.obj
-.vscode/
+# .vscode/
 
 # Precompiled Headers
 *.gch
@@ -31,3 +31,6 @@
 *.exe
 *.out
 *.app
+Section_04/executable
+
+Section_04/.DS_Store

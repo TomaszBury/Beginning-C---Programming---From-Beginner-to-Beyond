@@ -8,3 +8,16 @@ https://code.visualstudio.com/docs/cpp/config-clang-mac
 
 
 
+```bash
+g++ -Wall -std=c++14 main.cpp -o main
+```
+
+```bash
+g++ -Wall -std=c++23 main.cpp -o main_23_pp
+```
+
+```bash
+ls -lt
+```
+
+* Cmd+Shift+B to run the build task
