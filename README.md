@@ -20,4 +20,8 @@ g++ -Wall -std=c++23 main.cpp -o main_23_pp
 ls -lt
 ```
 
+```bash
+g++ -fsyntax-only -Wall -std=c++23 your_file.cpp
+```
+
 * Cmd+Shift+B to run the build task
