@@ -25,3 +25,6 @@ g++ -fsyntax-only -Wall -std=c++23 your_file.cpp
 ```
 
 * Cmd+Shift+B to run the build task
+
+
+[C++ keywords](https://en.cppreference.com/w/cpp/keyword)
